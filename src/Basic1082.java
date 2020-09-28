@@ -9,5 +9,6 @@ public class Basic1082 {
 
             System.out.format("%X*%X=%X%n", num, i, num * i);
         }
+
     }
 }
